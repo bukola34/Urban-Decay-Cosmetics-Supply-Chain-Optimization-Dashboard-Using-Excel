@@ -5,6 +5,10 @@ This repository contains data analysis, visualizations, using excel and insights
 
 This project analyzes the supply chain operations of Urban Decay, a beauty brand facing stockouts, rising shipping costs, and supplier inefficiencies. Using a dataset of 488 SKUs, suppliers, and transportation routes, the analysis uncovers bottlenecks and provides actionable recommendations to optimize performance.
 
+
+<img width="880" height="1184" alt="Urban decay Image" src="https://github.com/user-attachments/assets/90b386be-55d4-46a4-a1dc-3e74fc837ce1" />
+
+
 # Dataset
 
 The dataset includes information on:
